@@ -1,0 +1,11 @@
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Class: "rviz_default_plugins/RobotModel"
+      Enabled: true
+      Name: "RobotModel"
+      Robot Description: "robot_description"
+  Fixed Frame: "world"
+  Name: "RViz2"
+  Tools:
+    - Class: "rviz_default_plugins/Interact"
